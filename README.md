@@ -1,7 +1,5 @@
 # docker-arm_exporter
 
-[![Build Status](https://travis-ci.org/carlosedp/docker-arm_exporter.svg?branch=master)](https://travis-ci.org/carlosedp/docker-arm_exporter) [![](https://images.microbadger.com/badges/image/carlosedp/arm_exporter.svg)](https://microbadger.com/images/carlosedp/arm_exporter "Get your own image badge on microbadger.com")
-
 ARM CPU temperature exporter for Prometheus. Exporter code by [Lukas Malkmus](https://github.com/lukasmalkmus/rpi_exporter)
 
 Usage:
